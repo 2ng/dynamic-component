@@ -1,5 +1,11 @@
 # @2ng/dynamic-component
 
+## Install
+
+```
+npm i @2ng/dynamic-component
+```
+
 ## Usage
 
 ```ts
